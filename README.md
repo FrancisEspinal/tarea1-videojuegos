@@ -1,1 +1,1 @@
-# tarea1-videojuegoss
+# tarea1-videojuegos
